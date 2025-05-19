@@ -1,0 +1,2 @@
+# AVR_WASHINGMACHINE
+AVR기반 세탁기 구현 프로젝트
