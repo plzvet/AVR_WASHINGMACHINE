@@ -44,6 +44,10 @@ Washing_Machine_ATmega/
 - delay() 제거 → 타이머 인터럽트로 개선
 - 디바운싱 고도화 → 시스템 반응성 향상
 - FND/부저 비동기 처리 → FreeRTOS 도입 고려
+
+## 🔗 참고자료
+- [시연 영상] https://youtube.com/shorts/xT1mXlbhmvg?feature=share
+- [시연 영상] https://youtu.be/5A97HEJTE1Q
   
 ---
 ✅ 키워드: #AVR #FSM #세탁기 #ATmega128 #PWM #Bluetooth #임베디드시스템
